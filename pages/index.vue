@@ -272,25 +272,25 @@
     </div>
     <div class="flex flex-wrap md:-m-2 -m-1">
       <div class="flex flex-wrap w-1/2">
-        <div class="md:p-2 p-1 w-1/2 ">
-          <img alt="gallery" class=" w-full object-cover h-full object-center block" src="/1.1.png">
+        <div class="md:p-2 p-1 w-1/2 z-40 ">
+          <img alt="gallery" class=" w-full object-cover h-full object-center block transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-150 border-4 border-blue-800" src="/1.1.png">
         </div>
-        <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="/1.9.png">
+        <div class="md:p-2 p-1 w-1/2 z-40  ">
+          <img alt="gallery" class="w-full object-cover h-full object-center block transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-150 border-solid border-4 border-blue-800" src="/1.9.png">
         </div>
         <div class="md:p-2 p-1 w-full">
-          <img alt="gallery" class="w-full h-full object-cover object-center block" src="/1.2.png">
+          <img alt="gallery" class="w-full h-full object-cover object-center block transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-110 border-4 border-blue-800" src="/1.2.png">
         </div>
       </div>
       <div class="flex flex-wrap w-1/2">
         <div class="md:p-2 p-1 w-full">
-          <img alt="gallery" class="w-full h-full object-cover object-center block" src="/1.6.png">
+          <img alt="gallery" class="w-full h-full object-cover object-center block transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-110 border-4 border-blue-800" src="/1.6.png">
         </div>
         <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="/1.4.png">
+          <img alt="gallery" class="w-full object-cover h-full object-center block transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-150 border-4 border-blue-800" src="/1.4.png">
         </div>
         <div class="md:p-2 p-1 w-1/2">
-          <img alt="gallery" class="w-full object-cover h-full object-center block" src="/1.5.png">
+          <img alt="gallery" class="w-full object-cover h-full object-center block transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-150 border-4 border-blue-800" src="/1.5.png">
         </div>
       </div>
     </div>
@@ -305,7 +305,7 @@ GitHub
             <div id="app-2">
               <div class="title-container text-blue-600">
                 <div>
-                  <h3 class="title ">
+                  <h3 class="title text-center">
                     Awards and Achievements 
                   </h3>
                 </div>
@@ -337,7 +337,7 @@ GitHub
                     <div class="container px-5 py-24 mx-auto">
                     
                       <div class="flex flex-wrap -m-4" >
-                        <div class="lg:w-1/3 lg:mb-0 mb-6 p-4">
+                        <div class="lg:w-1/3 lg:mb-0 mb-6 p-4 shadow-2xl transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-110 ">
                           <div class="h-full text-center "> 
                             <img alt="testimonial" class="w-24 h-24 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/1.jpg">
                             <p class="leading-relaxed text-blue-100">Laiba Gul is a consistent honor student who performs her task with a positive attitude. Other instructors and professors in the same department talk highly of her performance. she is able to establish camaraderie and wonderful rapport with people of all ages and has excellent written and verbal communication skills.</p>
@@ -346,8 +346,8 @@ GitHub
                             <p class="text-gray-500">Dean of University of Engineering and Technology Mardan</p>
                           </div>
                         </div>
-                        <div class="lg:w-1/3 lg:mb-0 mb-6 p-4">
-                          <div class="h-full text-center">
+                        <div class="lg:w-1/3 lg:mb-0 mb-6 p-4 shadow-2xl transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-110 ">
+                          <div class="h-full text-center ">
                             <img alt="testimonial" class="w-24 h-24 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/2.jpg">
                             <p class="leading-relaxed text-blue-100">Laiba has a passion for engineering and leadership from the way she expresses herself, and she backs it up with commendable levels of perseverance and hard work. During her apprenticeship, she successfully learned new web technologies, and she worked with me to set up Gitlab epics, issue labels, and boards.</p>
                             <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
@@ -355,8 +355,8 @@ GitHub
                             <p class="text-gray-500">CEO Grey Software</p>
                           </div>
                         </div>
-                        <div class="lg:w-1/3 lg:mb-0 p-4">
-                          <div class="h-full text-center">
+                        <div class="lg:w-1/3 lg:mb-0 p-4 shadow-2xl transition duration-500 ease-in-out bg-transparent hover:transparent transform hover:-translate-y-1 hover:scale-110 ">
+                          <div class="h-full text-center ">
                             <img alt="testimonial" class="w-24 h-24 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="/3.jpg">
                             <p class="leading-relaxed text-blue-100">Miss Laiba Gul has worked with 360 Technologies as a technical internee in developement department. She has always been performing her duties in a professional and meticulous. Her Performance has been extremely satisfactory during the internship period in the company.</p>
                             <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
@@ -515,6 +515,7 @@ export default {
 
 
 <style>
+
 
 <!-------------------------------->
 
